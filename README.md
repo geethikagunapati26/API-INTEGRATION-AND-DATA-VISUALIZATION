@@ -90,3 +90,5 @@ A purple bar for Wind Speed (4.1 m/s)
 
 
 # OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8a851a81-dfe1-43a8-bf40-87e58561c0c0)
